@@ -1,1 +1,2 @@
 # Reservation-Bot
+A Restaurant Reservation Bot is an AI-powered conversational system designed to help customers book tables at a restaurant automatically through chat or voice interfaces. It replaces or supports human staff by handling reservations 24/7, reducing wait times and minimizing booking errors. The bot can be integrated into websites, mobile apps, WhatsApp, Telegram, or voice assistants.
